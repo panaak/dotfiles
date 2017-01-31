@@ -2,7 +2,8 @@
 
 ## Emacs
 
-    init.el
+    .emacs.d/init.el
+    .emacs.d/macros.el
 
 ## Irb
 
