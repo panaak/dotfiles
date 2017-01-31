@@ -1,4 +1,9 @@
 # dotfiles
 
-.irbrc
-.init.el (will add)
+## Emacs
+
+    init.el
+
+## Irb
+
+    .irbrc
